@@ -1,0 +1,44 @@
+.navbar{
+	background:linear-gradient(to left, #ccff66 0%, #99ffcc 100%);
+}
+#mystyle{
+	text-align: center;
+	font-weight: bold;
+	padding: 14px;
+}
+h1{
+	text-align: center;
+	font-weight: bold;
+	margin-right: 270px;
+}
+.foot {
+  text-align: center;
+  padding: 3px;
+  background-color: black;
+  color: white;
+}
+li{
+	font-weight: bold;
+	display: block;
+}
+#wow{
+  background-color:green;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+}
+.center{
+	text-align: center;
+}
+#wow:hover{
+	color: hotpink;
+}
+#wow:active{
+	color: yellow;
+}
+body{
+	
+    background: linear-gradient(to bottom left, #ffffff 0%, #ccffff 100%);
+}
